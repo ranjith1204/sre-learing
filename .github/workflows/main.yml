@@ -11,4 +11,4 @@ jobs:
 
     steps:
       - name: Print Welcome Message
-        run: echo "Hello GitHub Actions"
+        run: echo "Hello GitHub Actions whoami pwd date"
